@@ -78,7 +78,7 @@ Implementation of advanced static routing techniques in IPv4 and IPv6.
 ## 📫 Contact
 
 - 💼 LinkedIn: [Patrick Ndaye](https://www.linkedin.com/in/patrick-ndaye-b5b67a399)  
-- 📧 Email: patrickndayae919@gmail.com  
+- 📧 Email: patrickndaye919@gmail.com  
 - 📱 WhatsApp: +243975659129  
 
 ---
