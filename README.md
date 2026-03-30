@@ -1,27 +1,89 @@
-# Ndaye Network Projects – CCNP Level
+# 🚀 Ndaye Network Projects – CCNP Level
 
-Bienvenue sur mon portfolio de laboratoires réseau.
+Welcome to my network engineering portfolio.
 
-## Compétences démontrées
+I design and implement real-world enterprise network labs using GNS3, focusing on routing, security, and scalable network architectures.
 
-- **Routage** : OSPF, BGP, routage statique, redistribution
-- **Switching** : VLAN, inter-VLAN, EtherChannel, STP
-- **Sécurité** : IPsec VTI, ACL, SSH, NAT/PAT
-- **Services** : DHCP, NTP, SNMP
-- **Automatisation** : Python, Netmiko
-- **Virtualisation** : GNS3, IOU, VPCS, QEMU
+---
 
-## Projets
+## 💡 About Me
 
-| # | Projet | Description |
-|---|--------|-------------|
-| 1 | [VPN IPsec VTI](01-VPN-IPsec-VTI/) | Tunnel VPN chiffré avec OSPF |
-| 2 | [Routage statique](02-Routage-Static/) | Routes statiques IPv4/IPv6, floating, null |
+I am passionate about network engineering and cybersecurity, with hands-on experience in building and securing enterprise infrastructures.
 
-*(autres projets à venir)*
+💡 My goal is to become a skilled Network Engineer capable of designing, deploying, and securing modern networks.
 
-## Contact
+---
 
-- LinkedIn :www.linkedin.com/in/patrick-ndaye-b5b67a399
-- Email : patrickndayae919@gmail.com
-- WhatsApp : +243975659129
+## 🔥 Highlights
+
+- 🔐 Secure VPN (IPsec, VTI, GRE)
+- 🌐 Advanced Routing (OSPF, BGP, Static Routing)
+- 🛡️ Network Security (ACL, SSH, NAT/PAT)
+- ⚙️ Automation (Python, Netmiko)
+- 🖥️ Virtualization (GNS3, IOU, VPCS, QEMU)
+
+---
+
+## 🚀 Projects
+
+### 🔐 VPN IPsec VTI (Enterprise Lab)
+
+Secure site-to-site VPN using IPsec Virtual Tunnel Interface (VTI) with dynamic routing.
+
+✔ Encrypted communication between HQ and Branch  
+✔ OSPF routing over IPsec tunnel  
+✔ Enterprise-level network simulation  
+
+👉 [View Project](./01-VPN-IPsec-VTI)
+
+---
+
+### 🌐 Static Routing Lab
+
+Implementation of advanced static routing techniques in IPv4 and IPv6.
+
+✔ Floating static routes (failover)  
+✔ Null routes for traffic control  
+✔ IPv4 and IPv6 configuration  
+
+👉 [View Project](./02-Static-Routing)
+
+---
+
+## 🖼️ Sample Topology
+
+![Topologie globale](topologie-globale.png)
+
+---
+
+## 📊 Network Skills Demonstrated
+
+- **Routing**: OSPF, BGP, Static Routing, Redistribution  
+- **Switching**: VLAN, Inter-VLAN, EtherChannel, STP  
+- **Security**: IPsec VTI, ACL, SSH, NAT/PAT  
+- **Services**: DHCP, NTP, SNMP  
+- **Automation**: Python, Netmiko  
+
+---
+
+## 🚧 Upcoming Projects
+
+- 🔁 OSPF Advanced Lab (multi-area, optimization)  
+- 🌍 BGP Multi-site Network  
+- ⚡ HSRP / High Availability  
+- 🔐 Network Security Hardening  
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: [Patrick Ndaye](https://www.linkedin.com/in/patrick-ndaye-b5b67a399)  
+- 📧 Email: patrickndayae919@gmail.com  
+- 📱 WhatsApp: +243975659129  
+
+---
+
+## ⭐ Support
+
+If you find this repository useful, feel free to give it a star ⭐  
+and connect with me on LinkedIn!
