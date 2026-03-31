@@ -49,6 +49,15 @@ Implementation of advanced static routing techniques in IPv4 and IPv6.
 👉 [View Project](https://github.com/Ndaye12/Ndaye-Network-Projects/tree/main/%F0%9F%93%81%20PROJET%2002%20%E2%80%93%20ROUTAGE%20STATIQUE%20)
 
 ---
+### 🔁 GRE Tunnels Lab
+
+Implementation of GRE tunnels for IPv4 and IPv6 with OSPF over tunnel.
+
+✔ IPv4 and IPv6 GRE tunnels  
+✔ OSPF routing across the tunnel  
+✔ Demonstration of recursive routing issue  
+
+👉 [View Project](./03-GRE-Tunnels)
 
 ## 🖼️ Sample Topology
 
