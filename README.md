@@ -57,7 +57,7 @@ Implementation of GRE tunnels for IPv4 and IPv6 with OSPF over tunnel.
 ✔ OSPF routing across the tunnel  
 ✔ Demonstration of recursive routing issue  
 
-👉 [View Project](./03-GRE-Tunnels)
+👉 [View Project](https://github.com/Ndaye12/Ndaye-Network-Projects/tree/main/03%20%E2%80%93%20GRE%20TUNNELS)
 
 ## 🖼️ Sample Topology
 
