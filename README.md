@@ -84,7 +84,7 @@ Implementation of advanced static routing techniques in IPv4 and IPv6.
 ✔ Null routes for traffic control  
 ✔ IPv4 and IPv6 configuration  
 
-👉 [View Project](./02-STATIC-ROUTING)
+👉 [View Project](https://github.com/Ndaye12/Ndaye-Network-Projects/tree/main/%F0%9F%93%81%20PROJET%2002%20%E2%80%93%20ROUTAGE%20STATIQUE%20)
 
 ---
 
@@ -96,7 +96,7 @@ Implementation of GRE tunnels for IPv4 and IPv6 with OSPF over tunnel.
 ✔ OSPF routing across the tunnel  
 ✔ Demonstration of recursive routing issue  
 
-👉 [View Project](./03-GRE-TUNNELS)
+👉 [View Project](https://github.com/Ndaye12/Ndaye-Network-Projects/tree/main/03%20%E2%80%93%20GRE%20TUNNELS)
 
 ---
 
