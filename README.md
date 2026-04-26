@@ -102,7 +102,7 @@ Implementation of GRE tunnels for IPv4 and IPv6 with OSPF over tunnel.
 
 ## 🖼️ Sample Topology
 
-![Topologie globale](screenshots/topology.png)
+![Topologie globale](topologie-globale.png)
 
 ---
 
