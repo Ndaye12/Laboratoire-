@@ -187,12 +187,12 @@ VPCS> curl google.com
 
 ## Fichiers de configuration
 
-- [R1](configs/cisco/r1-config.txt)
-- [R1-BIS](configs/cisco/r1-bis-config.txt)
-- [R2](configs/cisco/r2-config.txt)
-- [R3](configs/cisco/r3-config.txt)
-- [R4](configs/cisco/r4-config.txt)
-- [FortiGate](configs/fortigate/fortigate-config.txt)
+- [R1](config/cisco/R1.txt)
+- [R1-BIS](config/cisco/R1-bis.txt)
+- [R2](config/cisco/R2.txt)
+- [R3](config/cisco/R3.txt)
+- [R4](config/cisco/R4.txt)
+- [FortiGate](config/fortigate/fortigate-config.txt)
 
 ---
 
