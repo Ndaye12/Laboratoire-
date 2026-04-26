@@ -187,12 +187,13 @@ VPCS> curl google.com
 
 ## Fichiers de configuration
 
-- [R1](config/cisco/R1.txt)
-- [R1-BIS](config/cisco/R1-bis.txt)
+- [R1](https://github.com/Ndaye12/Ndaye-Network-Projects/blob/main/Multi-Site-Secure-Network/Config/Cisco/R1.txt)
+- [R1-BIS](https://github.com/Ndaye12/Ndaye-Network-Projects/blob/main/Multi-Site-Secure-Network/Config/Cisco/R1_Bis.txt)
 - [R2](https://github.com/Ndaye12/Ndaye-Network-Projects/blob/main/Multi-Site-Secure-Network/Config/Cisco/R2.txt)
 - [R3](https://github.com/Ndaye12/Ndaye-Network-Projects/blob/main/Multi-Site-Secure-Network/Config/Cisco/R3.txt)
 - [R4](https://github.com/Ndaye12/Ndaye-Network-Projects/blob/main/Multi-Site-Secure-Network/Config/Cisco/R4.txt)
 - [FortiGate](https://github.com/Ndaye12/Ndaye-Network-Projects/blob/main/Multi-Site-Secure-Network/Config/Fortigate/fortigate-config.txt)
+- [Automatisation](https://github.com/Ndaye12/Ndaye-Network-Projects/blob/main/Multi-Site-Secure-Network/Scripts/Netmiko-automatisation.py)
 
 ---
 
