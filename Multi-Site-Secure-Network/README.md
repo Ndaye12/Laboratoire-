@@ -12,7 +12,7 @@ Concevoir une infrastructure réseau multi-sites sécurisée avec routage dynami
 - IPsec VTI (site-à-site)
 - HSRP
 - IP SLA + Tracking
-- ACL
+- ACL 
 - Zone-Based Firewall (ZBF)
 - Firewall Fortinet (FortiGate)
 - NAT/PAT
@@ -189,9 +189,9 @@ VPCS> curl google.com
 
 - [R1](config/cisco/R1.txt)
 - [R1-BIS](config/cisco/R1-bis.txt)
-- [R2](config/cisco/R2.txt)
-- [R3](config/cisco/R3.txt)
-- [R4](config/cisco/R4.txt)
+- [R2](https://github.com/Ndaye12/Ndaye-Network-Projects/blob/main/Multi-Site-Secure-Network/Config/Cisco/R2.txt)
+- [R3](https://github.com/Ndaye12/Ndaye-Network-Projects/blob/main/Multi-Site-Secure-Network/Config/Cisco/R3.txt)
+- [R4](https://github.com/Ndaye12/Ndaye-Network-Projects/blob/main/Multi-Site-Secure-Network/Config/Cisco/R4.txt)
 - [FortiGate](https://github.com/Ndaye12/Ndaye-Network-Projects/blob/main/Multi-Site-Secure-Network/Config/Fortigate/fortigate-config.txt)
 
 ---
